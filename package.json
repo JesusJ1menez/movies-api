@@ -1,0 +1,19 @@
+{
+  "name": "movies-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusJ1menez/movies-api.git"
+  },
+  "author": "jesusjb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JesusJ1menez/movies-api/issues"
+  },
+  "homepage": "https://github.com/JesusJ1menez/movies-api#readme"
+}
